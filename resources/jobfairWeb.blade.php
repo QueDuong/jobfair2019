@@ -1010,7 +1010,7 @@ var facebook_auth = {"appID":"1677254375873238","auth_url":"http:\/\/srv1.sekish
                             url: "Please enter a valid URL.",
                             number: "Please enter a valid number.",
                             digits: "Please enter only digits.",
-                            equalTo: "Please enter the same value."
+                            equalTo: "Please enter  e."
                         });
                     })(jQuery);
                 </script>
