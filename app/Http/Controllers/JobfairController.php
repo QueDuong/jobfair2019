@@ -26,6 +26,7 @@ class JobfairController extends Controller
 {
    public function index()
         {
+        
        $temptable ='';
     $useragent=$_SERVER['HTTP_USER_AGENT'];
 
