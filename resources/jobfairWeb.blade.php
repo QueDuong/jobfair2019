@@ -24,7 +24,7 @@
   <meta name="robots" content="index, follow" />
   <meta name = "alexaVerifyID" content = "1qN4FGcM5bHSYuEmnRvYfcdrsBo" />
   <link rel="profile" href="http://gmpg.org/xfn/11">
-    <title>Job Fair 2018 | Sekisho</title>
+    <title>Job Fair 2018 | Sekisho   .</title>
   
         <link rel="shortcut icon" href="img/icontab.png"/>
       <!-- enqueue json library for ie 7 or below -->
