@@ -399,7 +399,7 @@ $(document).ready(function(){
                             <div style="padding: 5px 4px; width: 160px; border-radius: 3px;text-align: center;color: white; background-color: rgb(105, 105, 105); float: left; margin-top: 7px; margin-right: 15px;">Địa điểm
                             </div>
                             <div style="color: rgb(105, 105, 105); float: left; font-size: 16px; margin-top: 10px">
-                             Thư viện Tạ Quang Bửu - Đại học Bách Khoa Hà Nội 
+                             Thư viện Tạ Quang Bửu - Đại học Bách Khoa Hà Nội. 
                             </div>
                         </div>
                         <div style="overflow: hidden">
