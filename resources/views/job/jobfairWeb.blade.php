@@ -24,7 +24,7 @@
   <meta name="robots" content="index, follow" />
   <meta name = "alexaVerifyID" content = "1qN4FGcM5bHSYuEmnRvYfcdrsBo" />
   <link rel="profile" href="http://gmpg.org/xfn/11">
-    <title>Job Fair 2018 | Sekisho</title>
+    <title>Job Fair 2019 | Sekisho</title>
   
         <link rel="shortcut icon" href="img/icontab.png"/>
       <!-- enqueue json library for ie 7 or below -->
@@ -256,7 +256,7 @@ var CrayonSyntaxStrings = {"copy":"Press %s to Copy, %s to Paste","minimize":"Cl
   for (var i = 0; i < evts.length; i++) {
     addEvent(evts[i], logHuman);
   }
-})('//srv1.sekisho-vn.com/Jobfair2018/?wordfence_logHuman=1&hid=B842DB12B74314E61220A5288125E77F');
+})('//srv1.sekisho-vn.com/jobfair2019/?wordfence_logHuman=1&hid=B842DB12B74314E61220A5288125E77F');
 </script>     <script type="text/javascript">
         var detectBrowser = function () {
           var isOpera = this.check(/opera/);
@@ -265,7 +265,7 @@ var CrayonSyntaxStrings = {"copy":"Press %s to Copy, %s to Paste","minimize":"Cl
           var isIE7 = isIE && check(/msie 7/);
           var isIE6 = isIE && check(/msie 6/);
 
-          if( ( isIE6 || isIE7 )  ) window.location = 'http://www.srv1.sekisho-vn.com/Jobfair2018/unsupported/';
+          if( ( isIE6 || isIE7 )  ) window.location = 'http://www.srv1.sekisho-vn.com/jobfair2019/unsupported/';
         }
 
         var check  = function (r) {
@@ -427,7 +427,7 @@ $(document).ready(function(){
               fjs.parentNode.insertBefore(js, fjs);
               }(document, 'script', 'facebook-jssdk'));</script>
               <div class="fb-page" data-href="https://www.facebook.com/sekishojf/" data-width="412" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
-                <blockquote cite="https://www.facebook.com/sekishojf/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/sekishojfsekishojf/">Sekisho Job Fair 2018</a></blockquote>
+                <blockquote cite="https://www.facebook.com/sekishojf/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/sekishojfsekishojf/">Sekisho Job Fair 2019</a></blockquote>
               </div>
             </div>  
                     <div style="width: 100%; text-align: left ; overflow: hidden; font-size: 26px; padding: 0px 0px; color: rgb(242, 91, 0); margin-top: 25px; text-align: center ;">
@@ -479,75 +479,70 @@ $(document).ready(function(){
         </div>
       </div>
       <div class="tienjobfair"> 
-        <div  id="semina2" style="overflow: hidden; text-align: justify; margin-top: 21px; color: #9e5f99; font-size: 24px; background-color: rgb(248, 248, 248); border-left: 35px solid #9e5f99; padding-left: 23px; padding-top: 9px; padding-bottom: 9px;">
+        <div  id="semina2" style="overflow: hidden; text-align: justify; margin-top: 21px; color: #9A3B91; font-size: 24px; background-color: rgb(248, 248, 248); border-left: 35px solid #9A3B91; padding-left: 23px; padding-top: 9px; padding-bottom: 9px;">
           <strong>SỰ KIỆN TIỀN JOB FAIR</strong>
         </div>
-        <div style="margin-left: 50px; color: #9e5f99">
-          <h1>“ĐỐI SÁCH PHỎNG VẤN – MINH HỌA THỰC TẾ & ĐỐ VUI”</h1>
+        <div style="margin-left: 55px; color: #9A3B91;font-size: 26px; ">
+         <strong>“ ĐỐI SÁCH PHỎNG VẤN HƯỚNG TỚI CÁC DOANH NGHIỆP NHẬT BẢN<br> 
+  &emsp; & THÔNG TIN DOANH NGHIỆP THAM GIA SEKISHO JOB FAIR.”</strong>
         </div>
         <div style="overflow: hidden;margin-right: 25px;margin-left: 25px;margin-top: 15px;color:#993b91;border-bottom: 2px ;padding-bottom: 13px " >
                   <div style="width: 35%;float: left;overflow: hidden">
                       <img src="img/semi.png">
                   </div>
                   <div style="width: 65%;float: left;overflow: hidden;font-size: 18px;margin-top: 10px;color: #FF0000">
-                     <div style="overflow:hidden;margin-top:7px; margin-bottom: 7px"><span style="color:white;background-color:#9e5f99;float:left;width: 150px;text-align: center;border-radius: 3px;padding: 5px;">Thời gian </span>
-                  <span style="color:#9e5f99; margin: 7px; font-size: 18px;margin-top: 12px">
+                     <div style="overflow:hidden;margin-top:7px; margin-bottom: 7px"><span style="color:white;background-color:#9A3B91;float:left;width: 150px;text-align: center;border-radius: 3px;padding: 5px;">Thời gian </span>
+                  <span style="color:#9A3B91; margin: 7px; font-size: 18px;margin-top: 12px">
                      Thứ 7 ngày 19/10/2019  【 Thời gian 09:30~11:30 】 <br>
                   </span>
                 </div>  
-                <div style="overflow:hidden;margin-top:3px"><span style="color:white;background-color:#9e5f99;float:left;width: 150px;text-align: center;border-radius: 3px;padding: 5px;">
-                  Địa điểm </span><span style="color:#9e5f99;float: left;margin: 7px;"> 
-                  Hội trường C2 - Đại học Bách khoa Hà Nội</span>
+                <div style="overflow:hidden;margin-top:3px"><span style="color:white;background-color:#9A3B91;float:left;width: 150px;text-align: center;border-radius: 3px;padding: 5px;">
+                  Địa điểm </span><span style="color:#9A3B91;float: left;margin: 7px;"> Hội trường C2 - Đại học Bách khoa Hà Nội
+                   </span>
                 </div>  
                
-                <div style="overflow:hidden;margin-top:3px"><span style="color:white;background-color:#9e5f99;float:left;width: 150px;text-align: center;border-radius: 3px;padding: 5px;">
-                  Phí tham gia </span><span style="color:#9e5f99;float: left;margin: 7px;">Miễn phí</span>
+                <div style="overflow:hidden;margin-top:3px"><span style="color:white;background-color:#9A3B91;float:left;width: 150px;text-align: center;border-radius: 3px;padding: 5px;">
+                  Phí tham gia </span><span style="color:#9A3B91;float: left;margin: 7px;">Miễn phí</span>
               </div>  
-              <div style="overflow:hidden;margin-top:3px"><span style="color:white;background-color:#9e5f99;float:left;width: 150px;text-align: center;border-radius: 3px;padding: 5px;">
-                  Diễn giả </span>
-                  <span style="color:#9e5f99;float: left;margin: 7px;">
-                    Ông Kiyotoshi Araki<br>
-                    (Sekisho Việt Nam)
-                  </span>
-              </div>  
+              
                          
          </div>
 
               </div>
-                <div style="overflow: hidden;margin-right: 25px;margin-left: 25px;margin-top: 15px;color:#993b91;padding-bottom: 13px ;border-bottom: 2px dashed #14d0de;" >
-                  <div style="width: 16%;float: left;overflow: hidden">
+                <div style="overflow: hidden;margin-right: 25px;margin-left: 25px;margin-top: 15px;color:#9A3B91;padding-bottom: 13px ;border-bottom: 2px dashed #14d0de;" >
+                  <div style="width: 20%;float: left;overflow: hidden">
                       <img src="img/semi01.png">
                   </div>
-                  <div style="width: 84%;overflow: hidden;font-size: 23px;color: #625f5f  " >
-                     <span style="color:#9e5f99;  font-size: 25px;font-weight: bold">
-                  Buổi học về đối sách phỏng vấn hướng đến doanh nghiệp Nhật <br>
+                  <div style="width: 75%;overflow: hidden;font-size: 23px;color: #625f5f  " >
+                     <span style="color:#9A3B91;  font-size: 25px;font-weight: bold">
+                   &nbsp;Buổi học về đối sách phỏng vấn <br>  &nbsp;hướng đến các doanh nghiệp Nhật <br>
                   </span>
                    
 
                   </div>
               </div>
-               <div style="overflow: hidden;margin-right: 25px;margin-left: 25px;margin-top: 15px;color:#993b91;padding-bottom: 13px ;border-bottom: 2px dashed #14d0de;" >
-                  <div style="width: 16%;float: left;overflow: hidden">
+               <div style="overflow: hidden;margin-right: 25px;margin-left: 25px;margin-top: 15px;color:#9A3B91;padding-bottom: 13px ;border-bottom: 2px dashed #14d0de;" >
+                  <div style="width: 20%;float: left;overflow: hidden">
                       <img src="img/semi02.png">
                   </div>
-                  <div style="width: 84%;overflow: hidden;font-size: 23px;color: #625f5f">
-                     <span style="color:#9e5f99;  font-size: 25px;font-weight: bold">
-                  Phỏng vấn thử<br>
+                  <div style="width: 75%;overflow: hidden;font-size: 23px;color: #625f5f">
+                     <span style="color:#9A3B91;  font-size: 25px;font-weight: bold">
+                   &nbsp;Phỏng vấn thử<br>
                   </span>
-                  Cơ hội phỏng vấn thử! Nhận góp ý trực tiếp từ diễn giả người Nhật <br>
-                  Quà tặng dành cho các bạn tham gia buổi phỏng vấn thử
+                   &nbsp;Cơ hội phỏng vấn thử! Nhận góp ý trực tiếp từ diễn giả người Nhật <br>
+                   &nbsp;Quà tặng dành cho các bạn tham gia buổi phỏng vấn thử!
 
                   </div>
               </div>
               <div style="overflow: hidden;margin-right: 25px;margin-left: 25px;margin-top: 15px;color:#993b91;padding-bottom: 13px ;border-bottom: 2px dashed #14d0de;" >
-                  <div style="width: 16%;float: left;overflow: hidden">
+                  <div style="width: 20%;float: left;overflow: hidden">
                       <img src="img/semi03.png">
                   </div>
-                  <div style="width: 84%;overflow: hidden;font-size: 23px;color: #625f5f">
-                     <span style="color:#9e5f99;  font-size: 25px;font-weight: bold">
-                   Giới thiệu doanh nghiệp
+                  <div style="width: 70%;overflow: hidden;font-size: 23px;color: #625f5f">
+                     <span style="color:#9A3B91;  font-size: 25px;font-weight: bold">
+                   &nbsp;Giới thiệu doanh nghiệp
                    </span>
-                   <br>Cơ hội phỏng vấn thử! Nhận góp ý trực tiếp từ diễn giả người Nhật
+                   <br>&nbsp;Giới thiệu tất cả các doanh nghiệp tham dự JOB FAIR năm nay! 
 
                   </div>
               </div>
@@ -1035,7 +1030,7 @@ var et_resume = {"no_link":"No link specified","no_location":"No location specif
 
 <script type='text/javascript'>
 /* <![CDATA[ */
-var facebook_auth = {"appID":"1677254375873238","auth_url":"http:\/\/srv1.sekisho-vn.com/Jobfair2018\/?action=authentication"};
+var facebook_auth = {"appID":"1677254375873238","auth_url":"http:\/\/srv1.sekisho-vn.com/jobfair2019\/?action=authentication"};
 /* ]]> */
 </script>
 

@@ -6,12 +6,12 @@
     <h2 class="display-3">Cảm ơn bạn đã đăng ký tham gia SEKISHO JOB FAIR!</h2>
     <p class="lead">Xin hãy check email của bạn để lấy mã số đăng ký và mật khẩu.
       <br>
-      Hẹn gặp lại bạn tại buổi JOBFAIR vào ngày 03-04/11/2018 tới đây tại Thư viện Tạ Quang Bửu - Đại học Bách Khoa Hà Nội.
+      Hẹn gặp lại bạn tại buổi JOB FAIR vào ngày 02~03/11/2019 tới đây tại Thư viện Tạ Quang Bửu - Đại học Bách Khoa Hà Nội.
     </p>
   
     <hr>
     <p class="lead">
-      <a class="btn btn-primary btn-sm" href="//srv1.sekisho-vn.com/Jobfair2018" role="button">Trở lại trang chủ</a>
+      <a class="btn btn-primary btn-sm" href="//srv1.sekisho-vn.com/jobfair2019" role="button">Trở lại trang chủ</a>
     </p>
   </div>
   <style>

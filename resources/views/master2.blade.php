@@ -7,7 +7,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-       <title>JobFair 2018 | Sekisho</title>
+       <title>JobFair 2019 | Sekisho</title>
 
         <!-- Fonts -->
         <link href="{{asset('css/app.css')}}" rel="stylesheet" type="text/css">

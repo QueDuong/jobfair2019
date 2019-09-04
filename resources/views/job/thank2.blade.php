@@ -4,10 +4,10 @@
 <div class="jumbotron text-xs-center" style="height: 100%; color: #f50707">
     <img href="/img/ticket.png">
     <h2 class="display-3">Nội dung đăng ký của bạn đã được thay đổi!</h2>
-    <p class="lead"><strong> Hẹn gặp lại bạn tại buổi JOBFAIR vào ngày 03-04/11/2018 tới đây tại Thư viện Tạ Quang Bửu - Đại học Bách Khoa Hà Nội.</p>
+    <p class="lead"><strong> Hẹn gặp lại bạn tại buổi JOBFAIR vào ngày 02~03/11/2019 tới đây tại Thư viện Tạ Quang Bửu - Đại học Bách Khoa Hà Nội.</p>
     <hr>
     <p class="lead">
-      <a class="btn btn-primary btn-sm" href="//srv1.sekisho-vn.com/Jobfair2018" role="button">Trở lại trang chủ</a>
+      <a class="btn btn-primary btn-sm" href="//srv1.sekisho-vn.com/jobfair2019" role="button">Trở lại trang chủ</a>
     </p>
   </div>
   <style>

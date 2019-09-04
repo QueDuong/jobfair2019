@@ -360,7 +360,7 @@ if($this->fcMobileCheck($useragent))
          $id=$canidate_mail->id;
          $pwd=$canidate_mail->pwd;
                 $message = "Dear {{$name}} <br><br> Cảm ơn bạn đã đăng kí tham gia SEKISHO JOBFAIR.<br><br>Dưới đây sẽ là mã số đăng ký của bạn tại JOBFAIR lần này:<br>Your entry number:<strong>  {{$id}}</strong><br>Password:<strong>  {{$pwd}}</strong><br><br> Hãy sử dụng mã số này để đăng ký vào hội trường tại quầy lễ tân.<br><br> Để thay đổi thông tin đăng kí bạn vui lòng sử dụng mã số đăng ký và mật khẩu trên để đăng nhập vào đường link dưới đây: 
-    <br><br>Link: http://srv1.sekisho-vn.com/Jobfair2018/joblogined<br><br> Hẹn gặp lại bạn tại buổi JOBFAIR vào ngày 03-04/11/2018 tới đây tại Thư viện Tạ Quang Bửu - Đại học Bách Khoa Hà Nội nhé.";
+    <br><br>Link: http://srv1.sekisho-vn.com/jobfair2019/joblogined<br><br> Hẹn gặp lại bạn tại buổi JOBFAIR vào ngày Ngày tổ chức 02~03/11/2019 tới đây tại Thư viện Tạ Quang Bửu - Đại học Bách Khoa Hà Nội nhé.";
 
         $body = "<html>\n";
         $body .= "<head>\n";
@@ -381,7 +381,7 @@ if($this->fcMobileCheck($useragent))
 
           $message->to( $email, 'Visitor')
           ->bcc('jobfair1@sekisho-vn.com', 'Reply')
-          ->subject('Welcome to Sekisho jobfair 2018');
+          ->subject('Welcome to Sekisho Job Fair 2019');
       });
         return view('job.thank');
           
