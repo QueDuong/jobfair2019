@@ -131,17 +131,17 @@
         <h2 style="color: #cf241c;text-align:center;font-size: 24px;font-weight: 600">SEKISHO JOB FAIR</h2>
     </div>
     <div style="background-color:#6a6a6a;color: white;padding: 2px 23px;margin-right: 3px;border-radius: 5px;margin-bottom: 9px;">
-    Ngày tổ chức: 03 ~ 04/11/2018
-    </div>      
-    <div style="background-color:#6a6a6a;color: white;padding: 2px 23px;margin-right: 3px;border-radius: 5px;margin-bottom: 9px;">
-    Thời gian:  9:00~17:00
-    </div>  
+    02~03/11/2019 【 Thời gian 8:30~17:00 】
+    </div> 
     <div style="background-color:#6a6a6a;color: white;padding: 2px 23px;margin-right: 3px;border-radius: 5px;margin-bottom: 9px;">
     Tiếp nhận đăng ký: 8:00~
-    </div>                            
+    </div>      
+   
+                               
     <div style="background-color:#6a6a6a;color: white;padding: 2px 23px;margin-right: 3px;border-radius: 5px;margin-bottom: 9px;">
     Địa điểm: Thư viện Tạ Quang Bửu, Đại học Bách Khoa Hà Nội
     </div>
+ 
     <div style="overflow: hidden">
         <div style="padding: 0px 4px; color: rgb(105, 105, 105); background-color: rgb(105, 105, 105); float: left; margin-right: 15px; margin-top: 2px;">d</div>
 
@@ -161,22 +161,22 @@
             </div>
         </div>
     </div>
-    <div style="overflow: hidden; text-align: center; padding: 12px 0px; margin-top: 22px;">
-	               <div style="width: 100%; text-align: center ; overflow: hidden; font-size: 26px; 
+       <div style="overflow: hidden; text-align: center; padding: 12px 0px; margin-top: 22px;">
+                   <div style="width: 100%; text-align: center ; overflow: hidden; font-size: 26px; 
             color: rgb(242, 91, 0); text-align: center ;">
     <!-- <div  style="width: 100%; text-align: center ;overflow:hidden;font-size: 26px;"> -->
 
-    </div>  
-	
+    
+    
         <div style="text-align: center; padding: 12px 0px; ">
-            <a href="jobfair/create" target="_blank"  style="border:3px solid #ecb251;color: #f4f4f4; background-color: #ecb251; font-size: 14px;  padding: 12px 42px;" > Đăng ký trên Website </a>
+         
+            <a  href="jobfair/create" target="_blank"   style="border:3px solid #ecb251;color: #f4f4f4; background-color: #ecb251; font-size: 14px;  padding: 12px 42px;" > Đăng ký trên Website </a>
+            <br>
+       <h4>( Thời hạn đăng ký trước sẽ kết thúc vào lúc 8h ngày 02/11/2019 )</h4>
 
         </div> 
-                    <div style="width: 100%; text-align: center ; overflow: hidden; font-size: 26px; 
-            color: rgb(242, 91, 0); text-align: center ;">
-    <!-- <div  style="width: 100%; text-align: center ;overflow:hidden;font-size: 26px;"> -->
-
-    </div>              
+         </div> 
+                              
     </div>
     <div style="overflow:hidden;text-align: justify;margin-top: 31px">
    <div style="margin-left: 3px;margin-top: 5px;">
@@ -216,7 +216,8 @@
             <strong>SỰ KIỆN TIỀN JOB FAIR</strong>
         </div>
         <div style="color: #9e5f99; font-size: 15px; margin-top: 5px; margin-bottom: 10px">
-            “ĐỐI SÁCH PHỎNG VẤN – MINH HỌA THỰC TẾ & ĐỐ VUI”
+            “ ĐỐI SÁCH PHỎNG VẤN HƯỚNG TỚI CÁC DOANH NGHIỆP NHẬT BẢN
+   & THÔNG TIN DOANH NGHIỆP THAM GIA SEKISHO JOB FAIR.”
         </div>
 
         <div>
@@ -224,28 +225,21 @@
         </div>  
         <div style="overflow:hidden">       
             <div style="margin-left:5px;overflow:hidden;margin-top:3px;margin-top:12px">
-            <span style="color:white;background-color:#9e5f99;float:left;width: 97px;text-align: center;border-radius: 3px;padding: 1px;">Thời gian </span><span style="color:#9e5f99;float: left;margin: 7px;margin-top:3px;">21/10/2018  【 Thời gian 14:00~16:00 】 </span></div>    
+            <span style="color:white;background-color:#9e5f99;float:left;width: 97px;text-align: center;border-radius: 3px;padding: 1px;">Thời gian </span><span style="color:#9e5f99;float: left;margin: 7px;margin-top:3px;">Thứ 7 ngày 19/10/2019 【09:30~11:30】 </span></div>    
             <div style="margin-left:5px;overflow:hidden;margin-top:3px"><span style="color:white;background-color:#9e5f99;float:left;width: 97px;text-align: center;border-radius: 3px;padding: 1px;">Địa điểm </span><span style="color:#9e5f99;float: left;margin: 7px;margin-top:3px;">Hội trường C2 - Đại học Bách khoa Hà Nội</span></div>    
             
-            <div style="margin-left:5px;overflow:hidden;margin-top:3px"><span style="color:white;background-color:#9e5f99;float:left;width: 97px;text-align: center;border-radius: 3px;padding: 1px;">Phí tham gia </span><span style="color:#9e5f99;float: left;margin: 7px;margin-top:3px;">Miễn phí</span></div>    
-                 <div style="margin-left:5px;overflow:hidden;margin-top:3px"><span style="color:white;background-color:#9e5f99;float:left;width: 97px;text-align: center;border-radius: 3px;padding: 1px;">Diễn giả </span><span style="color:#9e5f99;float: left;margin: 7px;margin-top:3px;">
-                Ông Yuichi Uemura, Ông Kiyotoshi Araki<br>
-                    (Sekisho Việt Nam)
-                 </span></div>     
+            <div style="margin-left:5px;overflow:hidden;margin-top:3px"><span style="color:white;background-color:#9e5f99;float:left;width: 97px;text-align: center;border-radius: 3px;padding: 1px;">Phí tham gia </span><span style="color:#9e5f99;float: left;margin: 7px;margin-top:3px;">Miễn phí</span></div>       
         </div>  
          <div style="overflow: hidden;margin-top: 15px;border-bottom: 2px solid #14d0de;border-bottom-style:dashed;padding-bottom: 9px">
             <div class="col-xs-8  col-sm-8 ">
                 <img class="img-responsive" src="img/semi01.png">
             </div>
               <div class="col-xs-16  col-sm-16 ">
-                <br><br><br><br>
+                
                 <span style="color:#9e5f99;  font-size: 18px;font-weight: bold">
-                  Câu đố về quy tắc phỏng vấn <br>
+                  Buổi học về đối sách phỏng vấn hướng đến các doanh nghiệp Nhật  <br>
                   </span>
-                  <span style="color:#9e5f99;float: left;margin: 7px;margin-top:3px;
-                  font-size: 15px;">
-                   Bạn hiểu được bao nhiêu quy tắc phỏng vấn?
-                    </span>
+                  
             </div>
         </div>
          <div style="overflow: hidden;margin-top: 15px;border-bottom: 2px solid #14d0de;border-bottom-style:dashed;padding-bottom: 9px">
@@ -253,13 +247,13 @@
                 <img class="img-responsive" src="img/semi02.png">
             </div>
             <div class="col-xs-16  col-sm-16 ">
-                <br><br><br><br>
+               
                 <span style="color:#9e5f99;  font-size: 18px;font-weight: bold">
-                  Mô phỏng buổi phỏng vấn tại sân khấu<br>
+                  Phỏng vấn thử
                   </span>
                    <span style="color:#9e5f99;float: left;margin: 7px;margin-top:3px;
                   font-size: 15px;">
-                    Ban tổ chức sẽ mô phỏng các quy tắc phỏng vấn trực tiếp trên sân khấu và giải thích chi tiết!
+                    Cơ hội phỏng vấn thử! Nhận góp ý trực tiếp từ diễn giả người Nhật <br> Quà tặng dành cho các bạn tham gia buổi phỏng vấn thử!
                      </span>
             </div>
         </div>
@@ -268,31 +262,17 @@
                 <img class="img-responsive" src="img/semi03.png">
             </div>
             <div class="col-xs-16  col-sm-16 ">
-                <br><br><br><br>
+                
                 <span style="color:#9e5f99;  font-size: 18px;font-weight: bold">
-                   Phỏng vấn thử<br>
+                   Giới thiệu doanh nghiệp<br>
                   </span>
                     <span style="color:#9e5f99;float: left;margin: 7px;margin-top:3px;
                   font-size: 15px;">
-                    Cơ hội phỏng vấn thử! Nhận góp ý trực tiếp từ diễn giả người Nhật
+                   Giới thiệu tất cả các doanh nghiệp tham dự JOB FAIR năm nay!
                       </span>
             </div>
         </div>
-         <div style="overflow: hidden;margin-top: 15px;border-bottom: 2px solid #14d0de;border-bottom-style:dashed;padding-bottom: 9px">
-            <div class="col-xs-8  col-sm-8 ">
-                <img class="img-responsive" src="img/semi04.png">
-            </div>
-             <div class="col-xs-16  col-sm-16 ">
-                <br><br><br><br>
-                <span style="color:#9e5f99;  font-size: 18px;font-weight: bold">
-                  Quà tặng<br>
-                  </span>
-                  <span style="color:#9e5f99;float: left;margin: 7px;margin-top:3px;
-                  font-size: 15px;">
-                     Quà tặng dành cho các bạn tham gia trả lời đố vui và phỏng vấn thử!
-            </span>
-            </div>
-        </div>
+     
         
 
     </div>
@@ -329,7 +309,7 @@ của JOB FAIR. </span>
         <div id="semina" style="overflow: hidden; text-align: justify; margin-top: 21px; color: rgb(1, 145, 58); font-size: 24px; background-color: rgb(248, 248, 248); border-left: 35px solid rgb(1, 145, 58); padding-left: 23px; padding-top: 9px; padding-bottom: 9px;">
            SEMINAR 
         </div>
-        <span style="font-size: 15px;font-weight: bold; letter-spacing: 1px; font-family: arial">LÊ CÁCH HỌC TIẾNG NHẬT DÀNH CHO NGƯỜI VIỆT</span><br>
+        <span style="font-size: 15px;font-weight: bold; letter-spacing: 1px; font-family: arial">CÁCH HÌNH THÀNH TƯ DUY ĐỂ PHÁT TRIỂN TRONG DOANH NGHIỆP NHẬT</span><br>
         <div style="margin-left:5px;overflow:hidden;margin-top:10px">
             <span style="color:white;background-color: rgb(1, 145, 58);float:left;width: 73px;text-align: center;border-radius: 3px;padding: 1px;">
                 Địa điểm
@@ -481,15 +461,15 @@ của JOB FAIR. </span>
     <strong>THÀNH TÍCH VÀ Ý KIẾN PHẢN HỒI VỀ LẦN JOB FAIR TRƯỚC</strong>
     </div>      
                 <div style="overflow: hidden;margin-top: 15px;color:#ed5b5e;padding-left:3px;padding-right:3px;">                                       
-                    <p style="color:black;text-align:center;"><img style="max-width:100%" src="./img/thanhtich.gif"></p>                  
-                    <p style="color:black;text-align:center;"><img style="max-width:100%" src="./img/thanhtich20182.png"></p>                 
+                    <p style="color:black;text-align:center;"><img style="max-width:100%" src="./img/thanhtich.jpg"></p>                  
+                                    
                     <div style="overflow:hidden;padding:9px 0px;">
                         <div style="font-size:16px;font-weight:normal;color:#5a5657;width:100%;overflow:hidden">
                            <h3 style="margin:0;color:#0d65f7">Thành tích tổ chức</h3>
-                           <p style="margin:0px">Thời gian : 4~5/11/2017 </p>
+                           <p style="margin:0px">Thời gian : 3~4/11/2018 </p>
                            <p style="margin:0px">Địa điểm : Trường Đại Học Bách Khoa Hà Nội</p>
-                           <p style="margin:0px">Số lượng ứng viên tham dự : 536 người (cả 2 ngày)</p>
-                           <p style="margin:0px">Số lượng ứng viên được tuyển dụng : 13 người (Doanh nghiệp vẫn đang tiếp tục tuyển chọn)</p>
+                           <p style="margin:0px">Số lượng ứng viên tham dự : 837 người (cả 2 ngày)</p>
+                           <p style="margin:0px">Số lượng ứng viên được tuyển dụng :40 người (Doanh nghiệp vẫn đang tiếp tục tuyển chọn)</p>
                         </div>
                     </div>
                     <div style="overflow:hidden;padding:9px 0px;">
@@ -536,9 +516,11 @@ của JOB FAIR. </span>
     </div>
         <div style="text-align: center; padding: 12px 0px; margin-top: 22px;">
             <a href="jobfair/create" target="_blank" style="border:3px solid #ecb251;color: #f4f4f4; background-color: #ecb251; font-size: 14px;  padding: 12px 42px;" > Đăng ký trên Website </a>
+
         </div>               
                    <div style="width: 100%; text-align: center ; overflow: hidden; font-size: 26px; 
             color: rgb(242, 91, 0); text-align: center ;">
+            <h4>( Thời hạn đăng ký trước sẽ kết thúc vào lúc 8h ngày 02/11/2019 )</h4>
 
     </div>
     

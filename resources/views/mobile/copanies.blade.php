@@ -446,41 +446,27 @@ img.emoji {
                     <tr>
                         <th class="first">NỘI DUNG CÔNG VIỆC <b>①</b> </th>
                         <th class="second">
-                      【Đã có kinh nghiệm】 <br>
-            - Kinh nghiệm: Từ 2 - 8 năm kinh nghiệm bảo dưỡng và sửa chữa hệ thống thủy lực, khí nén, máy bơm công nghiệp.<br>
-            ✅Công việc:<br>
-            - Xử lý sự cố để đảm bảo hoạt động của các thiết bị.<br>
-            - Kiểm tra khả năng làm việc của thiết bị theo định kỳ.<br>
-            - Quản lý thiết bị, kiểm soát phụ tùng thay thế dự phòng.<br>
-            - Cải tiến tăng khả năng hoạt động của thiết bị.<br>
-            - Thực hiện các công việc khác theo chỉ đạo của cấp trên<br>
-            ✅Yêu cầu:<br>
-            - Giới tính : Nam<br>
-            - Độ tuổi: 20 ~ 55<br>
-            - Trình độ: Trung cấp, Cao đẳng, Đại học.<br>
-            - Chuyên môn: Cơ khí.<br>
-            - Làm được 3 ca khi có yêu cầu từ công việc.  <br>   
-            ✅Mức lương ①: 【Khởi điểm 8.740.000đ – 16.400.000đ 】<br>                     </th>
+      【Đã có kinh nghiệm】Từ 2 - 8 năm kinh nghiệm bảo dưỡng và sửa chữa hệ thống thủy lực, khí nén, máy bơm công nghiệp.<br>
+✅Công việc: Xử lý sự cố để đảm bảo hoạt động của các thiết bị; Kiểm tra khả năng làm việc của thiết bị theo định kỳ; Quản lý thiết bị, kiểm soát phụ tùng thay thế dự phòng; Cải tiến tăng khả năng hoạt động của thiết bị; Thực hiện các công việc khác theo chỉ đạo của cấp trên.<br>
+✅Yêu cầu:<br>
+- Nam, từ 20 ~ 55 tuổi<br>
+- Trình độ: Trung cấp, Cao đẳng, Đại học.<br>
+- Chuyên môn: Cơ khí.<br>
+- Làm được 3 ca khi có yêu cầu từ công việc.<br>
+✅【Mức lương khởi điểm】8.740.000đ – 16.400.000đ                      </th>
              </tr>
            <tr>
                         <th class="first">NỘI DUNG CÔNG VIỆC <b>②</b> </th>
                         <th class="second">  
-                            【Đã có kinh nghiệm】 <br>
-                            - Kinh nghiệm: Từ 2 - 8 năm kinh nghiệm trong bảo dưỡng và sửa chữa hệ thống điện và các thiết bị điện công nghiệp.<br>
-                            - Xử lý sự cố để đảm bảo hoạt động của các thiết bị. <br>
-                            - Kiểm tra khả năng làm việc của thiết bị theo định kỳ. <br>
-                            - Quản lý thiết bị, kiểm soát phụ tùng thay thế dự phòng. <br>
-                            - Cải tiến tăng khả năng hoạt động của thiết bị. <br>
-                            - Thực hiện các công việc khác theo chỉ đạo của cấp trên. <br><br>
-
-                            Yêu cầu:<br>
-                            - Giới tính: Nam <br>
-                            - Độ tuổi: 20 ~ 55 <br>
-                            - Trình độ: Trung cấp, Cao đẳng, Đại học <br>
-                            - Chuyên ngành: Tự động hóa hoặc Điện công nghiệp<br>
-                            - Có kiến thức cơ bản về bản vẽ mạch điện.<br>
-                            - Làm 3 ca khi có yêu cầu từ công việc. <br>    
-                            ✅Mức lương ②: 【Khởi điểm 8.740.000đ – 16.400.000đ 】<br>                             
+                           【Đã có kinh nghiệm】Từ 2 - 8 năm kinh nghiệm trong bảo dưỡng và sửa chữa hệ thống điện và các thiết bị điện công nghiệp.<br>
+✅Công việc: Xử lý sự cố để đảm bảo hoạt động của các thiết bị; Kiểm tra khả năng làm việc của thiết bị theo định kỳ; Quản lý thiết bị, kiểm soát phụ tùng thay thế dự phòng; Cải tiến tăng khả năng hoạt động của thiết bị; Thực hiện các công việc khác theo chỉ đạo của cấp trên.<br>
+✅Yêu cầu:<br>
+- Nam, từ 20 ~ 55 tuổi<br>
+- Trình độ: Trung cấp, Cao đẳng, Đại học<br>
+- Chuyên ngành: Tự động hóa hoặc Điện công nghiệp<br>
+- Có kiến thức cơ bản về bản vẽ mạch điện.<br>
+- Làm 3 ca khi có yêu cầu từ công việc.<br>
+✅【Mức lương khởi điểm】 8.740.000đ – 16.400.000đ   <br>                          
                         </th>
             </tr>
                      
@@ -488,119 +474,84 @@ img.emoji {
                                             <tr>
                         <th class="first">NỘI DUNG CÔNG VIỆC <b>③</b> </th>
                         <th class="second">    
-                            【Đã có kinh nghiệm】 <br>
-                            - Mechanics of Machinery from 3 - 10 years’ experience  <br>
-                            ✅Job Description: <br>
-                            - Project management at individual  <br>
-                            - Installation of tire production machine or other utility equipment  <br>
-                            - Making maintenance schedule control  <br>
-                            - Machine/Parts purchasing/Arrangement and Budget control  <br>
-                            - Contractors control  <br>
-                            - Leading Mechanical design and KAIZEN activity (Machine Improvement) <br>
-                            - Other job assigned by Department manager <br>
-                            ✅Job Requirement: <br>
-                            - Gender: Male <br>
-                            - Age: 25 ~ 40 <br>
-                            - Experience in Mechanical driver or precision machinery is more preferred. <br>
-                            - Have knowledge basic design part of machine. <br>
-                            - Have more project management skill as leader  <br>
-                            - Planning and progress control  <br>
-                            - Labor (contractors) control  <br>
-                            - Leading KAIZEN activity  <br>
-                            - Have knowledge for basic production machinery; design of fabrication or new installation etc.. <br>
-                            - Fluent English  <br>
-                            - OA operation (Excel, Word, CAD) <br>
-                            - Can work 3 shifts when required from work      <br>
-                            ✅Mức lương ③: 【Starting salary 9.550.000đ – 22.900.000đ】<br>                            
+                           【Experience】Mechanics of Machinery from 3 - 10 years’ experience <br>
+✅Job Description: Project management at individual; Installation of tire production machine or other utility equipment; Making maintenance schedule control; Machine/Parts purchasing/Arrangement and Budget control; Contractors control; Leading Mechanical design and KAIZEN activity (Machine Improvement); Other job assigned by Department manager. <br>
+✅Job Requirement: <br>
+- Male, Age: 25 ~ 40 <br>
+- Experience in Mechanical driver or precision machinery is more preferred. <br>
+- Have knowledge basic design part of machine. <br>
+- Have more project management skill as leader <br>
+- Planning and progress control; Labor (contractors) control; Leading KAIZEN activity. <br>
+- Have knowledge for basic production machinery; design of fabrication or new installation etc.. <br>
+- Fluent English <br>
+- OA operation (Excel, Word, CAD) <br>
+- Can work 3 shifts when required from work <br>
+✅【Starting salary】 9.550.000đ – 22.900.000đ   <br>                       
                         </th>
                     </tr>
                  
                                         <tr>
                         <th class="first">NỘI DUNG CÔNG VIỆC <b>④</b> </th>
                         <th class="second">  <br>
-                            【Đã có kinh nghiệm】 <br>
-                            - Automation major with from 3 - 10 years experience in repair or installation or fabrication of Electric sequence control <br>
-                            ✅Job Description:<br>
-                            - Project management at individual <br>
-                            - Installation of tire production machine or other Utility equipment  <br>
-                            - Making maintenance schedule control <br>
-                            - Machine / parts purchasing / arrangement and Budget control <br>
-                            - Contractors control <br>
-                            - Leading Electrical / Mechanical design and KAIZEN activity  <br>
-                            (Machine improvement) <br>
-                            - Other job assigned by Department manager <br>
-                            ✅Job Requirement: <br>
-                            - Gender: Male <br>
-                            - Age: 25 ~ 40 <br>
-                            - Have knowledge basic design Electric system. <br>
-                            (Experience in Mitsubishi/Yokogawa PLC, Servo motor is more preferred) <br>
-                            - Have some project management skill as leader  <br>
-                            - Planning and progress control  <br>
-                            - Labor (contractors) control  <br>
-                            - Leading KAIZEN activity  <br>
-                            - Have knowledge for basic production machinery <br>
-                            - Fluent in English  <br>
-                            - Can work 3 shifts when required from work  <br>       
-                            ✅Mức lương ④: 【Starting salary 9.550.000đ – 22.900.000đ】<br>
+                          【Experience】Automation major with from 3 - 10 years experience in repair or installation or fabrication of Electric sequence control <br>
+✅Job Description: Project management at individual; Installation of tire production machine or other Utility equipment; Making maintenance schedule control; Machine / parts purchasing / arrangement and Budget control; Contractors control; Leading Electrical / Mechanical design and KAIZEN activity (Machine improvement); Other job assigned by Department manager.<br>
+✅Job Requirement:<br>
+- Male, Age: 25 ~ 40<br>
+- Have knowledge basic design Electric system.<br>
+(Experience in Mitsubishi/Yokogawa PLC, Servo motor is more preferred)<br>
+- Have some project management skill as leader<br>
+- Planning and progress control; Labor (contractors) control; Leading KAIZEN activity.<br>
+- Have knowledge for basic production machinery<br>
+- Fluent in English<br>
+- Can work 3 shifts when required from work<br>
+✅【Starting salary】 9.550.000đ – 22.900.000đ<br>
                         </th>
                     </tr>
                                         <tr>
                         <th class="first">NỘI DUNG CÔNG VIỆC <b>⑤</b> </th>
                         <th class="second">  
-                            ✅Job Description: <br>
-                            - MES (Manufacturing Execution System) Support <br>
-                            - Maintenance & Troubleshooting to ensure System running 24/7 <br>
-                            - Can programming is preferred (.Net, Oracle …) <br>
-                            - Deploy new system to factory Infrastructure support  <br>
-                            - Setup/maintenance Server, PC and related devices <br>
-                            Other <br>
-                            - Documenting & Implement IT Working Procedure <br>
-                            - Training to user  <br>
-                            - Corporate with other department to solve related issues.  <br>
-                            ✅Job Requirement: <br>
-                            - Gender: Male <br>
-                            - Age: 22~ 30 years old. <br>
-                            - Factory Experiences is preferred  <br>
-                            - Education: University degree <br>
-                            - Major: Information Technology <br>
-                            - Language: Communicate in English <br>
-                            ✅Skill & Experiences <br>
-                            1. IT support & troubleshooting (PC, Server, Printer…) with 1 – 4 years’ experience. <br>
-                            2. Have knowledge about Programming and Database <br>
-                            3. Logical thinking <br>
-                            4. Network experiences is preferred  <br>
-                            ✅Desired Characteristics <br> 
-                            1. Ability to perform the work coordination with relevant departments.  <br>
-                            2. Working well although in the overtime (work on Sunday or Saturday), if it is necessary. <br> 
-                            3. Honestly & Hardworking        <br>
-                            ✅Mức lương ⑤: 【Starting salary 9.550.000đ – 12.600.000đ】<br>                            
+                            ✅Job Description: MES (Manufacturing Execution System) Support; Maintenance & Troubleshooting to ensure System running 24/7; Can programming is preferred (.Net, Oracle …), Deploy new system to factory Infrastructure support; Setup/maintenance Server, PC and related devices; Other; Documenting & Implement IT Working Procedure; Training to user; Corporate with other department to solve related issues.<br>
+✅Job Requirement:<br>
+- Male; Age: 22~ 30 years old.<br>
+- Factory Experiences is preferred<br>
+- Education: University degree<br>
+- Major: Information Technology<br>
+- Language: Communicate in English<br>
+✅Skill & Experiences<br>
+1. IT support & troubleshooting (PC, Server, Printer…) with 1 – 4 years’ experience.<br>
+2. Have knowledge about Programming and Database<br>
+3. Logical thinking<br>
+4. Network experiences is preferred<br>
+✅Desired Characteristics<br>
+1. Ability to perform the work coordination with relevant departments.<br>
+2. Working well although in the overtime (work on Sunday or Saturday), if it is necessary.<br>
+3. Honestly & Hardworking<br>
+✅【Starting salary】 9.550.000đ – 12.600.000đ      <br>                    
                         </th>
                     </tr>
                                 <tr>
                         <th class="first">NỘI DUNG CÔNG VIỆC <b>⑥</b> </th>
                         <th class="second">  
-                        【Mới tốt nghiệp】 <br>
-                        - New graduates, 0-2 years experiences are welcomed. <br>
-                        【Đã có kinh nghiệm】 <br>
-                        - College: At least 2 years experiences <br>
-                        ✅Job Description: <br>
-                        1. Design and issue tire assembling spec sheet and launch new products. <br>
-                        2. Fix abnormalities in dairy basis and long terms.  <br>
-                        3. Lead the execution of design, analysis, or evaluation of assigned projects. <br>
-                        4. Recommend approaches to meet the technical and program requirements. <br>
-                        5. Provide technical leadership to other personnel and assigned teams; mentor others <br>
-                        in the organization. <br>
-                        6. Monitor and communicate project status, business issues, and significant developments. <br>
-                        7. Lead or participate in organizational efforts in assigned projects and/or tasks. <br>
-                        8. Participate as a presenter or reviewer in technical and program reviews. <br>
-                        ✅Job Requirement: <br>
-                        - Gender: Male <br>
-                        - Bachelor of Science in Engineering or Physics, Chemical, Mechanical, Electrical engineering <br> or equivalent.
-                        - Education: University/ College  <br>
-                        - Ability of basic English communication <br>
-                        - Experience of Process engineer or QC is plus. <br>
-                        - Experience of working for Japanese Company is plus.    <br>
-                        ✅Mức lương ⑤: 【Starting salary 8.750.000 – 11.550.000】<br>                      
+                      【Mới tốt nghiệp】New graduates, 0-2 years experiences are welcomed.<br>
+【Đã có kinh nghiệm】College: At least 2 years experiences<br>
+✅Job Description:<br>
+1. Design and issue tire assembling spec sheet and launch new products.<br>
+2. Fix abnormalities in dairy basis and long terms.<br>
+3. Lead the execution of design, analysis, or evaluation of assigned projects.<br>
+4. Recommend approaches to meet the technical and program requirements.<br>
+5. Provide technical leadership to other personnel and assigned teams; mentor others<br>
+in the organization.<br>
+6. Monitor and communicate project status, business issues, and significant developments.<br>
+7. Lead or participate in organizational efforts in assigned projects and/or tasks.<br>
+8. Participate as a presenter or reviewer in technical and program reviews.<br>
+✅Job Requirement:<br>
+- Gender: Male<br>
+- Bachelor of Science in Engineering or Physics, Chemical, Mechanical, Electrical engineering or equivalent.<br>
+ - Education: University/ College<br>
+- Ability of basic English communication<br>
+- Experience of Process engineer or QC is plus.<br>
+- Experience of working for Japanese Company is plus.<br>
+✅【Starting salary 】8.750.000 – 11.550.000      <br>              
                         </th>
                     </tr>
                     <tr>
@@ -641,7 +592,7 @@ img.emoji {
                   <div class="col-xs-12 col-sm-12 col-xs-12 col-md-8 col-lg-8">
                     <p style="margin-top: 20px;text-align: justify;">
                         <i>
-                            &emsp;&emsp;Công ty tôi là công ty liên doanh Nhật Bản. Môi trường làm việc thân thiện, chuyên nghiệp, đội ngũ nhân viên năng động, sáng tạo. Tôi đã có cơ hội được đi đào tạo tại Nhật để nâng cao kiến thức cũng như kỹ năng làm việc và dần khẳng định được vị trí của mình tại công ty. Tôi yêu IRV!.<br>
+                            &emsp;&emsp;Công ty tôi là công ty liên doanh Nhật Bản. Môi trường làm việc thân thiện, chuyên nghiệp, đội ngũ nhân viên năng động, sáng tạo. Tôi đã có cơ hội được đi đào tạo tại Nhật để nâng cao kiến thức cũng như kỹ năng làm việc và dần khẳng định được vị trí của mình tại công ty. Tôi yêu IRV!<br>
                                     
                         </i>
                     </p>
@@ -663,22 +614,21 @@ img.emoji {
                        + Thực hiện các công việc khác theo yêu cầu của Trưởng phòng và giám đốc Phòng.<br>
                         </th>
                     </tr>
-                     <tr>
-                        <th class="first">QUY TRÌNH TUYỂN DỤNG:</th>
-                        <th class="second">
-                     Sơ tuyển vòng 1　Phỏng vấn (Tại trường Đại học Bách khoa Hà Nội)<br>
-                Sơ tuyển vòng 2　Phỏng vấn, test qua Web<br>
-                Sơ tuyển vòng cuối　Phỏng vấn, Intern (Nhật Bản) ※ Chi trả chi phí đi lại<br>
-                Tuyển dụng<br>
-                                                                                                                            
-
-                        </th>
-                    </tr>
+                    
                      <tr>
                         <th class="first">ĐỊA ĐIỂM LÀM VIỆC</th>
                         <th class="second">
                         Thôn Phú Nhi, Xã Thanh Lâm, Huyện Mê Linh, Tp.Hà Nội
                        </th>
+                    </tr>
+                     <tr>
+                        <th class="first">LĨNH VỰC TUYỂN DỤNG:</th>
+                        Điện - Điện tử   <br>                       
+                        Máy móc, Cơ khí   <br>                      
+
+                        <th class="second">
+                        IT<br>                      
+                        </th>
                     </tr>
                     <tr>
                         <th class="first">QUY TRÌNH TUYỂN DỤNG:</th>
@@ -692,10 +642,7 @@ img.emoji {
                         <th class="first">ĐỊNH HƯỚNG CÔNG VIỆC
 (ROAD MAP)</th>
                         <th class="second">
-                        ◆Sau 1 năm. Vị trí: Nhân viên <br>
-                        ◆Sau 3 năm. Vị trí: Trợ lý giám sát <br>
-                        ◆Sau 5 năm. Vị trí: Giám sát viên <br>
-                        ◆Sau 10 năm. Vị trí: Phụ trách phòng <br>
+                        Nhân viên -> Trợ lý giám sát -> Giám sát viên -> Phụ trách phòng
 
                         </th>
                     </tr>
@@ -770,7 +717,141 @@ img.emoji {
     
 
 
+<div class="company_entry" id="copNTT">
+        <h3 style="color: #d46a00;padding-left: 13px">NTT DATA VIET NAM</h3>
+        <div class="content1">
+            <div class="content2">
+                <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" style="padding-left: 0px">
+                    <div style="text-align: center;margin-top:20px">
+                        <img class="img-responsive" style="width: 200px;padding: 10px;border: 1px solid #ccc"
+                             src="img/logocompany/NTT.png"></div>
+                </div>
+                  <div class="col-xs-12 col-sm-12 col-xs-12 col-md-8 col-lg-8">
+                    <p style="margin-top: 20px;text-align: justify;">
+                        <i>
+                      • Công ty hàng đầu trong lĩnh vực giải pháp công nghệ thông tin và các ứng dụng web, nghiên cứu và tư vấn công nghệ, gia công phần mềm cho nước ngoài.<br>
+                        • Cơ hội đào tạo, học tập và làm việc tại Nhật Bản, APAC. <br>
+                        • Được tham gia các chương trình đào tạo từ các chuyên gia đến từ Nhật Bản.<br>
+                        • Chế độ lương, thưởng (2 lần/năm), tăng lương hàng năm.<br>
+                        • Môi trường làm việc trẻ trung, năng động.<br>
+                        </i>
+                    </p>
+                    
+                    
+                </div>
+                <table style="width:95%;margin-top: 10px">
+                     <tr>
+                        <th class="first">NỘI DUNG NGÀNH NGHỀ</th>
+                        <th class="second">
+                           Giải pháp công nghệ thông tin và các ứng dụng web, nghiên cứu và tư vấn công nghệ, gia công phần mềm cho nước ngoài.
+                        </th>
+                    </tr>
+                    <tr>
+                        <th class="first">NỘI DUNG CÔNG VIỆC</th>
+                        <th class="second">
+                        [Mới tốt nghiệp] <br>
+                        ・Tham gia vào các dự án thực tế tại công ty (Outsource, Service, Solution)<br>
+                        ・Được tham gia các chương trình đào tạo nội bộ và nước ngoài.<br><br>
 
+                        [Đã có kinh nghiệm]<br>
+                        ・Thiết kế, coding và kiểm thử hệ thống hoặc chức năng sau khi hoàn thành.<br>
+                        ・ Nghiên cứu các công nghệ mới và áp dụng vào các dự án của công ty.<br>
+                        ・ Xây dựng kế hoạch, thực hiện và kiểm soát tiến độ lập trình theo kế hoạch.<br>
+                        ・ Thực hiện vai trò của Kiểm soát chất lượng ở từng giai đoạn.<br>
+                        </th>
+                    </tr>
+                     <tr>
+                        <th class="first">ĐỊA ĐIỂM LÀM VIỆC</th>
+                           <th class="second">
+                      Room 202, 2nd Floor, HITC Building, 239 Xuân Thủy, Cầu Giấy, Hà Nội
+                       </th>
+                    </tr>
+                    <tr>
+                        <th class="first">LĨNH VỰC TUYỂN DỤNG:</th>
+                        <th class="second">
+                        IT<br>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th class="first">QUY TRÌNH TUYỂN DỤNG:</th>
+                        <th class="second">
+                        Vòng 1: Tại hội trường Job Fair<br>
+                        Vòng 2: Phỏng vấn tại trụ sở công ty NTT Data Viet Nam - Ha Noi
+                        </th>
+                    </tr>
+                    <tr>
+                        <th class="first">WEBSITE:</th>
+                         <th class="second"><a target="_blank" href="https://www.nttdata.com/vn/en/">https://www.nttdata.com/vn/en/</a>
+                        </th>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+<div class="company_entry" id="copSTN">
+        <h3 style="color: #d46a00;padding-left: 13px">STN</h3>
+        <div class="content1">
+            <div class="content2">
+                <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" style="padding-left: 0px">
+                    <div style="text-align: center;margin-top:20px">
+                        <img class="img-responsive" style="width: 200px;padding: 10px;border: 1px solid #ccc"
+                             src="img/logocompany/STN.png">
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-xs-12 col-md-8 col-lg-8">
+                    <p style="margin-top: 20px;text-align: justify;">
+                        <i>
+                      Công ty của chúng tôi được thành lập vào năm 1976 với tư cách là công ty cộng tác của Kubota, hiện nay, chúng tôi đang chủ yếu phát triển lĩnh vực sản xuất chi tiết máy cho các thiết bị máy móc công nghiệp và máy kéo cho công ty cổ phần Kubota tại khu vực Inashiki, Ibaraki. Với triết lý kinh doanh "Doanh nghiệp giàu sự sáng tạo", "Doanh nghiệp cống hiến cho xã hội", toàn thể nhân viên của chúng tôi đã và đang cố gắng làm việc để cung cấp các sản phẩm cho quý khách hàng với tiêu chí khách hàng là trên hết. Ngoài ra, với tư cách là công ty liên kết của công ty cổ phần Kubota, năm 2001, chúng tôi đã bắt đầu hành trình toàn cầu hóa bằng việc thành lập pháp nhân tại Bang Georgia, Hoa Kỳ. Để đẩy mạnh quá trình toàn cầu hóa trong tương lai,  tuyển dụng những nhân tài ưu tú người nước ngoài có thể sử dụng tốt tiếng Nhật và tiếng Anh là việc không thể thiếu.<br>
+                        </i>
+                    </p>                  
+                
+                <div class="img_joinjbfair one_img" >
+                    <img width="36%" src="img/logocompany/STN1.png">
+                    <img width="21%" src="img/logocompany/STN2.png">
+                    <img width="35%" src="img/logocompany/STN3.png">
+                </div>
+                </div>
+                <table style="width:95%;margin-top: 10px">
+                     <tr>
+                        <th class="first">NỘI DUNG NGÀNH NGHỀ</th>
+                        <th class="second">Sản xuất chi tiết máy dùng trong nông nghiệp và công nghiệp</th>
+                    </tr>
+                    <tr>
+                        <th class="first">NỘI DUNG CÔNG VIỆC</th>
+                        <th class="second">
+                        <b>①</b> Nghiệp vụ quản lý, lập bản vẽ và số liệu sản xuất linh kiện <br>
+                        <b>②</b> Soạn thảo hướng dẫn quy trình, nội dung công việc  <br>
+                        <b>③</b> Tạo dữ liệu, thiết kế chi tiết máy  <br>
+                        <b>④</b> Sản xuất chi tiết máy <br>
+                        <b>⑤</b> Bảo trì, bảo dưỡng máy móc tại nhà máy <br>
+                        </th>
+                    </tr>
+                     <tr>
+                        <th class="first">ĐỊA ĐIỂM LÀM VIỆC</th>
+                           <th class="second">
+                       Nhà máy tại trụ sở chính: 1307 Nakayama, Inashiki-shi, Ibaraki<br>
+                       Nhà máy tại Kawachi: 670-3 Nagahata, Tagawa, Kawachi-cho, Inashiki-shi, Ibaraki
+                       </th>
+                    </tr>
+                    <tr>
+                        <th class="first">LĨNH VỰC TUYỂN DỤNG:</th>
+                        <th class="second">
+                        Điện - Điện tử <br>                                                                     
+                        Máy móc, cơ khí <br>  
+                        
+                        </th>
+                    </tr>
+                   
+                    <tr>
+                        <th class="first">WEBSITE:</th>
+                         <th class="second"><a target="_blank" href="https://www.stngrp.com/">https://www.stngrp.com/</a>
+                        </th>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
 
 <div class="company_entry" id="cop2">
         <h3 style="color: #d46a00;padding-left: 13px">SEKISHO CORPORATION</h3>
@@ -846,7 +927,6 @@ img.emoji {
         </div>
     </div>
  
-
 
     <div style="overflow:hidden;text-align:center">
 

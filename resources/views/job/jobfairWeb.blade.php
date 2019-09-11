@@ -595,7 +595,7 @@ $(document).ready(function(){
           <strong>SEMINAR </strong>
         </div>
           <span style="margin-left:50px;font-size: 28px; font-weight: bold; letter-spacing: 1px;
-            font-family: arial; color: #01913A">CÁCH HỌC TIẾNG NHẬT DÀNH CHO NGƯỜI VIỆT</span>
+            font-family: arial; color: #01913A">CÁCH HÌNH THÀNH TƯ DUY ĐỂ PHÁT TRIỂN TRONG DOANH NGHIỆP NHẬT</span>
         <div class="gioithieu" style="color: rgb(1, 145, 58); margin-top: 30px">
           <div style="margin-left:50px;overflow:hidden;margin-top:3px;margin-top:12px">
             <span style="color:white;background-color: rgb(1, 145, 58);float:left;width: 100px;text-align: center;border-radius: 3px;padding: 5px;">Địa điểm </span>
@@ -765,7 +765,7 @@ $(document).ready(function(){
 
         <div id="thanhtich" style="overflow: hidden; text-align: justify; margin-top: 21px; color: #0d65f7; font-size: 24px; background-color: rgb(248, 248, 248); border-left: 35px solid #0d65f7; padding-left: 23px; padding-top: 9px; padding-bottom: 9px; font-weight: bold">
 
-        THÀNH TÍCH VÀ Ý KIẾN PHẢN HỒI VỀ LẦN JOB FAIR TRƯỚCs
+        THÀNH TÍCH VÀ Ý KIẾN PHẢN HỒI VỀ LẦN JOB FAIR TRƯỚC
         </div>    
 
         <div style="overflow: hidden;margin-top: 15px;color:#ed5b5e;padding-left:25px;padding-right:25px;" >                      
