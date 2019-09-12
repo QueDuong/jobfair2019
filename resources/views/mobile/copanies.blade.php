@@ -639,8 +639,7 @@ in the organization.<br>
                         </th>
                     </tr>
                       <tr>
-                        <th class="first">ĐỊNH HƯỚNG CÔNG VIỆC
-(ROAD MAP)</th>
+                        <th class="first">ĐỊNH HƯỚNG CÔNG VIỆC (ROAD MAP)</th>
                         <th class="second">
                         Nhân viên -> Trợ lý giám sát -> Giám sát viên -> Phụ trách phòng
 
@@ -703,7 +702,74 @@ in the organization.<br>
         </div>
     </div>   -->
   
-    
+     <div class="company_entry" id="copKurakawa">
+        <h3 style="color: #d46a00;padding-left: 13px">KURAKAWA.CO.,LTD</h3>
+        <div class="content1">
+            <div class="content2">
+                <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" style="padding-left: 0px">
+                    <div style="text-align: center;margin-top:20px">
+                        <img class="img-responsive" style="height:  150px;padding: 10px;border: 1px solid #ccc"
+                             src="img/logocompany/KURAKAWA01.png"></div>
+                </div>
+                  <div class="col-xs-12 col-sm-12 col-xs-12 col-md-8 col-lg-8">
+                    <p style="margin-top: 20px;text-align: justify;">
+                        <i>
+                            &emsp;&emsp;Công ty tôi từ 30 năm trước đã cùng làm việc với người nước ngoài. Tôi nghĩ là lần đầu ở Nhật các bạn sẽ có rất nhiều lo lắng, nhưng những anh chị người nước ngoài và người Nhật đi trước sẽ chỉ bảo tận tình cho các bạn về cả cuộc sống và công việc.
+                        <br>
+                        <br>
+                        <br>
+                        <br>                                  
+                        </i>
+                    </p>
+                    
+                </div>
+               
+                <table style="width:95%;margin-top: 10px">
+                     <tr>
+                        <th class="first">NỘI DUNG NGÀNH NGHỀ</th>
+                        <th class="second">
+                        Sản xuất gia công tấm kim loại của chi tiết máy và chi tiết phụ tùng xe chuyển hàng của máy nông nghiệp, máy móc xây dựng; sản xuất gia công tấm kim loại sử dụng cho khung tòa nhà; sản xuất gia công tấm kim loại của giá đỡ máy chủ, thiết bị nội thất; sản xuất Pallet thép, giá đỡ hỗ trợ vận chuyển hàng hóa (sản xuất và thiết kế các thiết bị)
+                        </th>
+                    </tr>
+                    <tr>
+                        <th class="first">NỘI DUNG CÔNG VIỆC</th>
+                        <th class="second">
+                        Sử dụng công nghệ cơ điện tử để phát triển thiết kế máy móc và thiết bị sản xuất, thúc đẩy giảm thiểu nhân công trong công ty. <br>
+                        Quản lý các thao tác tại nhà máy và quản lý sản xuất gia công tấm kim loại theo đơn đặt hàng của khách hàng.<br>
+                        Quản lý các thao tác tại nhà máy và quản lý sản xuất gia công hàn theo đơn đặt hàng của khách hàng.  <br>
+                        Phát triển thiết kế thiết bị vận chuyển, quản lý chất lượng và quản lý sản xuất dây truyền, quản lý thao tác tại nhà máy.  <br>        
+                        </th>
+                    </tr>
+                     <tr>
+                        <th class="first">ĐỊA ĐIỂM LÀM VIỆC</th>
+                        <th class="second">
+                        ① Nhà máy tại trụ sở chính: 976 Uchijiku, thành phố Namegata, tỉnh Ibaraki <br>
+                        ② Nhà máy Sanno: 1620 - 1 Uchijiku, thành phố Namegata, tỉnh Ibaraki <br>
+                        ③ Nhà máy Yamada: 2032 Yamada, thành phố Namegata, tỉnh Ibaraki <br>
+                       </th>
+                    </tr>
+                    <tr>
+                        <th class="first">LĨNH VỰC TUYỂN DỤNG:</th>
+                        <th class="second">
+                        Điện - Điện tử  <br>                                                                
+                        Cơ khí       <br>                                                           
+                        </th>
+                    </tr>
+                    <tr>
+                        <th class="first">QUY TRÌNH TUYỂN DỤNG:</th>
+                        <th class="second">
+                       Sau khi đỗ phỏng vấn vòng 1 -> tham gia phỏng vấn vòng 2 -> nhận quyết định tuyển dụng.
+                        </th>
+                    </tr>
+                    <tr>
+                        <th class="first">WEBSITE:</th>
+                        <th class="second"><a target="_blank" href="//kurakawa.co.jp/">http://www.kurakawa.co.jp</a>
+                        </th>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
 
   
 
