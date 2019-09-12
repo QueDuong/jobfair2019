@@ -206,7 +206,7 @@
                     </tr>
                     <tr>
                         <td>
-                         【Chế xuất】Ô tô, phương tiện vận tải
+                         Sản xuất lốp xe cho ôtô
                         </td>
                     </tr>
                     <tr>

@@ -441,7 +441,7 @@ img.emoji {
                      <tr>
                         <th class="first">NỘI DUNG NGÀNH NGHỀ</th>
                         <th class="second">
-                              【Chế xuất】Ô tô, phương tiện vận tải     </th>
+                             Sản xuất lốp xe cho ôtô  </th>
                     </tr>
                     <tr>
                         <th class="first">NỘI DUNG CÔNG VIỆC <b>①</b> </th>
@@ -708,7 +708,7 @@ in the organization.<br>
             <div class="content2">
                 <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" style="padding-left: 0px">
                     <div style="text-align: center;margin-top:20px">
-                        <img class="img-responsive" style="height:  150px;padding: 10px;border: 1px solid #ccc"
+                        <img class="img-responsive" style="padding: 10px;border: 1px solid #ccc"
                              src="img/logocompany/KURAKAWA01.png"></div>
                 </div>
                   <div class="col-xs-12 col-sm-12 col-xs-12 col-md-8 col-lg-8">
